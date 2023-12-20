@@ -1,0 +1,154 @@
+{
+    projects: [
+        {
+            tech: "Svelte",
+            details: [
+                {
+                    name: "Art gallery management system", 
+                    pic: "art.png", 
+                    desc: "An Art Gallery Management System is a software solution designed to streamline and automate various tasks associated with the operation of an art gallery.", 
+                    info: "It incorporates various fields like inventory management, sales & transactions, artwork tracking, mobile accessibility and many more.",
+                    gitlink: "https://github.com/shreya6286/art-gallery",
+                    tech: ["Svelte", "HTML", "CSS", "Javascript", "Bootstrap", "MySQL"],
+                    web: "",
+                },
+                {
+                    name: "Xpedio Website", 
+                    pic: "xsite.png", 
+                    desc: "Xpedio is a rapid application development platform", 
+                    info: "XPEDIOLIVE is a brand which is managed by XpedioLive Technologies Private Limited (XTPL).XTPL is a registered company under the Indian company act to provide the services in Information Technology sector which will cater technology support to industrial automations and provide world class solutions for all enterprise segments.",
+                    gitlink: "https://github.com/shreya6286/xpedio-website",
+                    tech: ["Svelte", "HTML", "CSS", "Javascript", "Bootstrap", "MongoDB"],
+                    web: "https://xpediolive.com/",
+                },
+                {
+                    name: "AbloomTours Cars", 
+                    pic: "cars.png", 
+                    desc: "This is a car rental company project that involves creating a system or platform that facilitates the rental of vehicles to customers for a specified period. ", 
+                    info: "It includes various features like user registration & authentication, vehicle inventory management, reservation system, booking & rental process, and many more such facilities.",
+                    gitlink: "https://github.com/shreya6286/abloomtours-cars",
+                    tech: ["Svelte", "HTML", "CSS", "Javascript", "Bootstrap", "MongoDB"],
+                    web: "",
+                },
+                {
+                    name: "Recipe Website", 
+                    pic: "cook.png", 
+                    desc: "A recipe website is an online platform dedicated to providing a collection of culinary recipes, cooking tips, and related content to users interested in preparing meals. ", 
+                    info: "This website caters to a diverse audience, from beginners seeking simple recipes to experienced cooks looking for inspiration and new ideas.",
+                    gitlink: "https://github.com/shreya6286/recipe-website",
+                    tech: ["Svelte", "HTML", "CSS", "Javascript", "Bootstrap", "MySQL"],
+                    web: "",
+                },
+                {
+                    name: "Chatbot", 
+                    pic: "bot1.png", 
+                    desc: "A chatbot clone of ChatGPT", 
+                    info: "This Chatbot Project involves the design, development, and implementation of a computer program that is capable of simulating human conversation through text or voice interactions. This Chatbot uses natural language processing (NLP) and machine learning techniques to understand user input, interpret intent, and provide relevant responses.",
+                    gitlink: "https://github.com/shreya6286/PBL-project-chatbot",
+                    tech: ["Svelte", "HTML", "CSS", "Javascript", "Bootstrap", "NodeJS"],
+                    web: "",
+                },
+                {
+                    name: "Portfolio Website", 
+                    pic: "port.png", 
+                    desc: "This portfolio website is a personal website that showcases my work, skills, achievements, and experiences. ", 
+                    info: "The primary purpose of this portfolio website is to provide a centralized and easily accessible platform for presenting my collection of projects, creative works, or professional accomplishments. This website includes various sections like the home, about me, projects, resume and contact me",
+                    gitlink: "https://github.com/shreya6286/portfolio",
+                    tech: ["Svelte", "HTML", "CSS", "Javascript", "Bootstrap", "MongoDB"],
+                    web: "",
+                }
+            ]
+        },
+        {
+            tech: "Javascript",
+            details: [
+                {
+                    name: "Calculator", 
+                    pic: "calc.png", 
+                    desc: "This Calculator Project involves the development of a web-based tool that performs mathematical calculations. ", 
+                    info: "The purpose of this calculator project is to provide users with a convenient and efficient way to perform various types of calculations, ranging from basic arithmetic operations to more complex mathematical functions. ",
+                    gitlink: "https://github.com/shreya6286/calculator",
+                    tech: ["HTML", "CSS", "Javascript"],
+                    web: "",
+                },
+                {
+                    name: "Weather Forcast", 
+                    pic: "weather.png", 
+                    desc: "This Weather Forecast Project involves the development of a web-based tool that provides up-to-date and accurate weather information for a specific location.", 
+                    info: "This project includes features for retrieving, processing, and presenting data like the currents, wind speed, temperature, humidity, etc to users.",
+                    gitlink: "https://github.com/shreya6286/weather-forecast",
+                    tech: ["HTML", "CSS", "Javascript"],
+                    web: "",
+                },
+                {
+                    name: "Quotes Generator", 
+                    pic: "quotes.png", 
+                    desc: "This Inspirational Quotes Project involves creating a platform that delivers motivational and uplifting quotes to users.", 
+                    info: "This type of project is often designed to provide daily doses of inspiration, share wisdom, and foster a positive mindset. ",
+                    gitlink: "https://github.com/shreya6286/quotes-generator",
+                    tech: ["HTML", "CSS", "Javascript"],
+                    web: "",
+                },
+                {
+                    name: "Stopwatch", 
+                    pic: "watch.png", 
+                    desc: "This Stopwatch Project involves creating a digital tool that simulates the functionality of a stopwatch.", 
+                    info: "This Stopwatch Project is a straightforward but practical application, commonly used in various contexts, including sports, fitness training, laboratory experiments, and time management. The goal is to provide users with a reliable and easy-to-use digital stopwatch for measuring elapsed time accurately.",
+                    gitlink: "https://github.com/shreya6286/quotes-generator",
+                    tech: ["HTML", "CSS", "Javascript"],
+                    web: "",
+                },
+                {
+                    name: "BookmyShow", 
+                    pic: "show.png", 
+                    desc: "This is a clone of the BookMyShow online ticketing platform", 
+                    info: "A BookMyShow project refers to a website designed to facilitate the booking and reservation of tickets for various entertainment events, with a primary focus on movies, theaters, concerts, and other live performances.",
+                    gitlink: "https://github.com/shreya6286/bookmyshow",
+                    tech: ["HTML", "CSS", "Javascript"],
+                    web: "",
+                },
+                {
+                    name: "To-do List", 
+                    pic: "todo.png", 
+                    desc: "This To-do List Project involves creating a tool that helps users organize and manage their tasks, to-dos, and activities.", 
+                    info: "The primary goal is to provide a simple and efficient way for individuals to keep track of their responsibilities and prioritize their work.",
+                    gitlink: "https://github.com/shreya6286/to-do-list",
+                    tech: ["HTML", "CSS", "Javascript"],
+                    web: "",
+                },
+                {
+                    name: "Shopping Cart", 
+                    pic: "shop.png", 
+                    desc: "This Shopping Cart project refers to a web-based tool, designed to facilitate the online purchase of mobile phones.", 
+                    info: "It aims to provide users with a convenient and secure platform to explore, compare, and purchase mobile devices online.",
+                    gitlink: "https://github.com/shreya6286/shopping-cart",
+                    tech: ["HTML", "CSS", "Javascript"],
+                    web: "",
+                },
+            ]
+        },
+        {
+            tech: "Blender",
+            details: [
+                {
+                    name: "Lighthouse", 
+                    pic: "lighthouse.png", 
+                    desc: "A low-poly lighthouse scene made using Blender", 
+                    info: "It is a 3D computer graphics project which includes low-poly modeling, lighthouse model, simplified landscape, texturing, lighting & shading, composition and rendering.",
+                    gitlink: "https://github.com/shreya6286/Lighthouse",
+                    tech: ["Blender"],
+                    web: "",
+                },
+                {
+                    name: "Dungeon", 
+                    pic: "d4.png", 
+                    desc: "A low-poly dungeon scene made using Blender", 
+                    info: "It is a 3D computer graphics project which includes low-poly modeling, dungeon architecture, props and assets, texturing, lighting & atmosphere, composition, environmental details, camera placement and rendering.",
+                    gitlink: "https://github.com/shreya6286/Dungeon",
+                    tech: ["Blender"],
+                    web: "",
+                }
+            ]
+        }
+    ]
+}
